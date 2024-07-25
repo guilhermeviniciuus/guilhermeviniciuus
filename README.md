@@ -1,7 +1,7 @@
 
 
 
-<p align="center">Seja bem-vindo!<br><br> Olá! Meu nome é Guilherme Vinicius, e sou um estudante de engenharia da computação no Centro Federal de Educação Tecnológica de Minas Gerais. Estou apaixonado por programação e desenvolvimento, e estou constantemente aprimorando meus conhecimentos nessa área. Seja bem-vindo ao meu perfil! </p>&nbsp;
+<p align="center">Seja bem-vindo!<br><br> Olá! Meu nome é Guilherme Vinicius, e sou um estudante de Análise e Desenvolvimento de Sistemas na PUC MINAS. Estou apaixonado por programação e desenvolvimento, e estou constantemente aprimorando meus conhecimentos nessa área. Seja bem-vindo ao meu perfil! </p>&nbsp;
 
 
  &nbsp;
