@@ -1,7 +1,7 @@
 
 
 
-<p align="center">Seja bem-vindo!<br><br> Olá! Meu nome é Guilherme Vinicius, sou um estudante de Análise e Desenvolvimento de Sistemas na PUC MINAS.<br>Atualmente trabalho como estagiario de TI no Sicoob Copermec.<br>Seja bem-vindo ao meu perfil!</p>&nbsp;
+<p align="center">Seja bem-vindo!<br><br> Olá! Meu nome é Guilherme Vinicius, sou um estudante de Análise e Desenvolvimento de Sistemas na PUC MINAS.<br><br>Atualmente trabalho como estagiario de TI no Sicoob Copermec.<br><br>Seja bem-vindo ao meu perfil!</p>&nbsp;
 
 
  &nbsp;
